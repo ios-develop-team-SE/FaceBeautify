@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "6d106aa21977422c260a9a77f8d4b638"
+build_time: [550292400, 812250000]
+inputs:
+  "/Users/dddong/\u5927\u5B66\u8BFE\u7A0B/\u79FB\u52A8\u5E73\u53F0\u5F00\u53D1\u6280\u672F/\u5927\u4F5C\u4E1A/\u53C2\u8003\u4EE3\u7801/CartoonEyes-master/FaceDetect/ViewController.swift": [550292400, 0]
+  "/Users/dddong/\u5927\u5B66\u8BFE\u7A0B/\u79FB\u52A8\u5E73\u53F0\u5F00\u53D1\u6280\u672F/\u5927\u4F5C\u4E1A/\u53C2\u8003\u4EE3\u7801/CartoonEyes-master/FaceDetect/AppDelegate.swift": [550225593, 0]
