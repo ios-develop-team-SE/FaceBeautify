@@ -63,7 +63,8 @@ class ViewController: UIViewController
     func initialiseCaptureSession()
     {
         //使用系统自带的采集图片的配置选项
-        captureSession.sessionPreset = AVCaptureSessionPresetPhoto
+//        captureSession.sessionPreset = AVCaptureSessionPresetPhoto //获取的相机数据是4/3的长宽比
+        captureSession.sessionPreset = AVCaptureSessionPresetHigh   //获取的相机数据是16/9的长宽比
         
         //获取前置摄像头
         guard let frontCamera = (AVCaptureDevice.devices(withMediaType: AVMediaTypeVideo) as! [AVCaptureDevice])
